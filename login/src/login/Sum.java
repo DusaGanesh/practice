@@ -6,7 +6,7 @@ public class Sum {
 		int a = 10;
 		int b = 20;
 		int sum = a + b;
-		System.out.println("addtion of two:" + sum);
+		System.out.println("addtion of two numbers:" + sum);
 
 	}
 
